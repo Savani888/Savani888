@@ -2,10 +2,6 @@
 
 <p align="center"><b>AIML Engineering Student 🧠 | Creative AI Engineer 🎨 | Tech Artist 🌌</b></p>
 
-### 🕹️ Contribution Arcade
-![](https://githubSavani888content.com)
-
-
 
 ### 🔮 The Intersection of Code & Creativity
 I build neural networks that don't just process data, they create experiences. As an AIML student, I focus on the technical engineering of machine learning models, while my creative side drives me to apply them to generative art, interactive tech and smart user interfaces.
