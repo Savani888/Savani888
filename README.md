@@ -2,15 +2,7 @@
 
 <p align="center"><b>AIML Engineering Student 🧠 | Creative AI Engineer 🎨 | Tech Artist 🌌</b></p>
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
----
 
 ### 🔮 The Intersection of Code & Creativity
 I build neural networks that don't just process data, they create experiences. As an AIML student, I focus on the technical engineering of machine learning models, while my creative side drives me to apply them to generative art, interactive tech and smart user interfaces.
@@ -77,4 +69,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
 -->
+
