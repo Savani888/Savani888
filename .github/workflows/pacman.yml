@@ -1,24 +1,23 @@
-name: Generate Pacman Game
-
+name: Generate Pac-Man Game
 on:
   schedule:
-    - cron: "0 */24 * * *" # Updates every 24 hours
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: generate pacman.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+          github_user_name: Savani888
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
