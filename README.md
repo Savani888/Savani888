@@ -22,14 +22,11 @@ I build neural networks that don't just process data, they create experiences. A
 
 ---
 
-
 ### 🕹️ Git Activity Grid
 <div align="center">
   <img alt="Pacman Contribution Graph" src="https://githubusercontent.com">
 </div>
 
-
----
 <!--
 ### 🚀 Featured Creative AI Projects
 
