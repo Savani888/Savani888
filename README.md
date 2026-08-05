@@ -21,6 +21,16 @@ I build neural networks that don't just process data, they create experiences. A
 | **Core ML:** Scikit-Learn, NumPy, Pandas | **UI Frameworks:** Gradio, Streamlit, React | **Hardware:** CUDA, TensorRT optimization |
 
 ---
+
+### 🕹️ Git Activity Grid
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <img alt="Pacman" src="https://githubusercontent.com">
+  </picture>
+</div>
+
+---
 <!--
 ### 🚀 Featured Creative AI Projects
 
