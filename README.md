@@ -24,8 +24,12 @@ I build neural networks that don't just process data, they create experiences. A
 
 ### 🕹️ Git Activity Grid
 <div align="center">
-  <img alt="Pacman Contribution Graph" src="https://githubusercontent.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <img alt="Pacman Contribution Graph" src="https://githubusercontent.com">
+  </picture>
 </div>
+
 
 <!--
 ### 🚀 Featured Creative AI Projects
