@@ -23,12 +23,7 @@ I build neural networks that don't just process data, they create experiences. A
 ---
 
 ### 🕹️ Git Activity Grid
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <img alt="Pacman Contribution Graph" src="https://githubusercontent.com">
-  </picture>
-</div>
+<img src="https://pacman.abozanona.me?username=Savani888" />
 
 
 <!--
