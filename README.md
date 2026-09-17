@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Savani Bhimellu 
 
-<p align="center"><b>AIML Engineering Student 🧠 | Creative AI Engineer 🎨 | Tech Artist 🌌</b></p>
+<p align="center"><b>AIML Engineering Student 🧠 | AI Engineer 🎨 | Tech Artist 🌌</b></p>
 
 ### 🕹️ Git Activity Grid
 <img src="https://pacman.abozanona.me?username=Savani888" />
@@ -17,7 +17,7 @@ I build neural networks that don't just process data, they create experiences. A
 
 ### 🛠️ Tech Stack & Canvas
 
-| 🧠 AI / ML Engineering | 🎨 Creative Tech & Frontend | ⚙️ Tools & Infra |
+| 🧠 AI / ML Engineering | 🎨 Tech & Frontend | ⚙️ Tools & Infra |
 | :--- | :--- | :--- |
 | **Frameworks:** PyTorch, TensorFlow | **Languages:** Python, JavaScript, C++ | **Platforms:** Hugging Face, Weights & Biases |
 | **GenAI:** Diffusers, Transformers, LLMs | **Visuals:** OpenCV, p5.js, Blender API | **DevOps:** Git, Docker, Linux, AWS |
